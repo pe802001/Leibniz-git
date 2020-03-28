@@ -1,2 +1,3 @@
-# Leibniz-git
- 
+萊布尼茨(Leibniz)公式估算PI
+PI/4=1-1/3+1/5-1/7+1/9...
+試撰寫一函數double Leibniz(int n),可輸入n值後求解。
