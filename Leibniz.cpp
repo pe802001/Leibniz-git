@@ -5,6 +5,7 @@ double power(double,int);
 int main(void)
 {
     int n;
+    printf("求Leibniz(n)=??,n=",n,Leibniz(n));
     scanf("%d",&n);
     printf("Leibniz(%d)=%f",n,Leibniz(n));
     system("pause");
